@@ -1,0 +1,13 @@
+C:\Users\pekovic\Desktop\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.csprojAssemblyReference.cache
+C:\Users\pekovic\Desktop\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.csproj.CoreCompileInputs.cache
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.exe
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.deps.json
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.runtimeconfig.json
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.runtimeconfig.dev.json
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.dll
+C:\Users\pekovic\Desktop\Solution\NasaRover\bin\Debug\netcoreapp3.1\NasaRover.pdb
+C:\Users\pekovic\Desktop\Solution\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.csprojAssemblyReference.cache
+C:\Users\pekovic\Desktop\Solution\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.csproj.CoreCompileInputs.cache
+C:\Users\pekovic\Desktop\Solution\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.dll
+C:\Users\pekovic\Desktop\Solution\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.pdb
+C:\Users\pekovic\Desktop\Solution\NasaRover\obj\Debug\netcoreapp3.1\NasaRover.genruntimeconfig.cache
